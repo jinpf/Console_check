@@ -2,10 +2,10 @@
 
 A python script for checking whether devices can be logged on by ssh.
 
-This script using multithread method to do the check, pretty good for checking a huge amount of devices. I write this as an intern of Alibaba, tests show it works well:)
+This script using multithread method to do the check, pretty good for checking a huge amount of devices.
 
 ##Prerequisites
-* python 2
+* python 2.x
 * paramiko([http://docs.paramiko.org/](http://docs.paramiko.org/))
 
 ##Usage：
